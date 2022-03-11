@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is CABC-DAAE
+
+ Directory of C:\git_project
+
+03/11/2022  02:03 PM    <DIR>          .
+03/11/2022  02:03 PM    <DIR>          ..
+03/11/2022  02:03 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  68,028,739,584 bytes free
